@@ -61,7 +61,7 @@ Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik
 
 ## 🏆 Sertifikat
 
-[![Sertifikat Python](Python.png)](Python.png)
+[![Sertifikat Python](249_HANIF_MAULANA_ARRASYID.png)](249_HANIF_MAULANA_ARRASYID.png)
 
 
 
