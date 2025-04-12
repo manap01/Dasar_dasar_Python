@@ -1,14 +1,12 @@
+[![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Kursus Bisa.ai](https://img.shields.io/badge/Kursus-Bisa.ai-blueviolet)](https://bisa.ai/my_course/detail/1/128335)
+
 # <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" style="vertical-align: middle;"/>  <span style="font-size: 50px; vertical-align: middle; line-height: 1.1;">Python Dasar</span>
 </div>
 
-
-
 Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik penting seperti variabel, operator, kontrol alur, fungsi, dan lainnya.
-
-[![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Kursus Bisa.ai](https://img.shields.io/badge/Kursus-Bisa.ai-blueviolet)](https://bisa.ai/my_course/detail/1/128335)
 
 ---
 
