@@ -59,9 +59,16 @@ Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik
 
 - [Dasar-dasar Python - Bisa.ai](https://bisa.ai/my_course/detail/1/128335)
 
+
+---
+
+
 ## 🏆 Sertifikat
 
-[![Sertifikat Dasar Python - Hanif Maulana Arrasyid](Sertifikat/249_HANIF_MAULANA_ARRASYID.png)](Sertifikat/249_HANIF_MAULANA_ARRASYID.png)
+<a href="Sertifikat/249_HANIF_MAULANA_ARRASYID.png" target="_blank">
+  <img src="Sertifikat/249_HANIF_MAULANA_ARRASYID.png" alt="Sertifikat Dasar Python - Hanif Maulana Arrasyid" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</a>
+
 
 
 
