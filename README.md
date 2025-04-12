@@ -1,4 +1,7 @@
-# ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python Dasar
+# <div style="text-align: center;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 50px; vertical-align: middle; margin-right: 10px;" />
+  Python Dasar
+</div>
 
 Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik penting seperti variabel, operator, kontrol alur, fungsi, dan lainnya.
 
