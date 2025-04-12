@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" />  <span style="font-size: 45px; display: inline-block; vertical-align: middle; padding-left: 10px;">Python Dasar</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" style="vertical-align: middle;"/>  <span style="font-size: 50px; vertical-align: middle; line-height: 1.1;">Python Dasar</span>
 </div>
 
 
