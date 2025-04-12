@@ -2,6 +2,11 @@
 
 Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik penting seperti variabel, operator, kontrol alur, fungsi, dan lainnya.
 
+[![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Kursus Bisa.ai](https://img.shields.io/badge/Kursus-Bisa.ai-blueviolet)](https://bisa.ai/my_course/detail/1/128335)
+
+
 ## 📚 Daftar Materi
 
 ### 01 - Pengenalan
