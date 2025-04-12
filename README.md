@@ -1,4 +1,4 @@
-# 🐍 Python Dasar
+# ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python Dasar
 
 Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik penting seperti variabel, operator, kontrol alur, fungsi, dan lainnya.
 
@@ -11,48 +11,48 @@ Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik
 ## 📚 Daftar Materi
 
 ### 📌 01 - Pengenalan
-- [01_hello_world.py](materi/01_hello_world.py) – Program Python pertama (Hello, World!)
-- [02_komentar.py](materi/02_komentar.py) – Menulis komentar dalam Python
+- `01_hello_world.py` – Program Python pertama (Hello, World!)
+- `02_komentar.py` – Menulis komentar dalam Python
 
 ### 🧮 02 - Variabel dan Tipe Data
-- [01_variabel.py](materi/01_variabel.py) – Pendeklarasian variabel
-- [02_tipe_data_numerik.py](materi/02_tipe_data_numerik.py) – Integer, float, dan operasi numerik
-- [03_tipe_data_string.py](materi/03_tipe_data_string.py) – Manipulasi string
-- [04_tipe_data_boolean.py](materi/04_tipe_data_boolean.py) – Boolean
-- [05_tipe_data_none.py](materi/05_tipe_data_none.py) – NoneType
+- `01_variabel.py` – Pendeklarasian variabel
+- `02_tipe_data_numerik.py` – Integer, float, dan operasi numerik
+- `03_tipe_data_string.py` – Manipulasi string
+- `04_tipe_data_boolean.py` – Boolean
+- `05_tipe_data_none.py` – NoneType
 
 ### ➕ 03 - Operator
-- [01_operator_aritmatika.py](materi/01_operator_aritmatika.py) – Operator matematika dasar
-- [02_operator_perbandingan.py](materi/02_operator_perbandingan.py) – Perbandingan nilai
-- [03_operator_logika.py](materi/03_operator_logika.py) – Logika: and, or, not
-- [04_operator_assignment.py](materi/04_operator_assignment.py) – Penugasan nilai
-- [05_operator_identity_membership.py](materi/05_operator_identity_membership.py) – Identitas & Keanggotaan
+- `01_operator_aritmatika.py` – Operator matematika dasar
+- `02_operator_perbandingan.py` – Perbandingan nilai
+- `03_operator_logika.py` – Logika: and, or, not
+- `04_operator_assignment.py` – Penugasan nilai
+- `05_operator_identity_membership.py` – Identitas & Keanggotaan
 
 ### 🔁 04 - Struktur Kontrol
-- [01_if_else.py](materi/01_if_else.py) – Percabangan `if`, `elif`, `else`
-- [02_match_case.py](materi/02_match_case.py) – `match-case` (Python 3.10+)
+- `01_if_else.py` – Percabangan `if`, `elif`, `else`
+- `02_match_case.py` – `match-case` (Python 3.10+)
 
 ### 🔂 05 - Perulangan
-- [01_for_loop.py](materi/01_for_loop.py) – Loop `for`
-- [02_while_loop.py](materi/02_while_loop.py) – Loop `while`
-- [03_nested_loops.py](materi/03_nested_loops.py) – Perulangan bersarang
-- [04_list_comprehensions.py](materi/04_list_comprehensions.py) – List comprehensions
+- `01_for_loop.py` – Loop `for`
+- `02_while_loop.py` – Loop `while`
+- `03_nested_loops.py` – Perulangan bersarang
+- `04_list_comprehensions.py` – List comprehensions
 
 ### 🧠 06 - Fungsi
-- [01_basic_function.py](materi/01_basic_function.py) – Fungsi dasar
+- `01_basic_function.py` – Fungsi dasar
 
 ### 📦 07 - List dan Tuple
-- [01_list_basics.py](materi/01_list_basics.py) – List dasar
-- [02_tuple_basics.py](materi/02_tuple_basics.py) – Tuple dasar
+- `01_list_basics.py` – List dasar
+- `02_tuple_basics.py` – Tuple dasar
 
 ### 📘 08 - Dictionary
-- [01_basic_dict.py](materi/01_basic_dict.py) – Penggunaan dictionary
+- `01_basic_dict.py` – Penggunaan dictionary
 
 ### 📦 09 - Modul dan Package
-- [01_import_module.py](materi/01_import_module.py) – Impor modul
+- `01_import_module.py` – Impor modul
 
 ### 📁 10 - File Handling
-- [01_read_file.py](materi/01_read_file.py) – Membaca file eksternal
+- `01_read_file.py` – Membaca file eksternal
 
 ---
 
