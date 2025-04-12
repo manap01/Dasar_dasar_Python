@@ -1,4 +1,4 @@
-# 🐍 Python Dasar Portofolio
+# 🐍 Python Dasar
 
 Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik penting seperti variabel, operator, kontrol alur, fungsi, dan lainnya.
 
@@ -50,6 +50,4 @@ Repositori ini berisi materi dasar Python untuk pemula yang mencakup topik-topik
 
 ---
 
-## 🚀 Tujuan
-Portofolio ini bertujuan untuk membantu pemula memahami konsep dasar Python secara bertahap dan terstruktur.
 
